@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="examples">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/hdt-java-master/hdt-java-package/examples" />
+      <root url="file://$USER_HOME$/Desktop/hdt-java-master/hdt-java-package/target/hdt-java-package-2.0-SNAPSHOT-distribution/hdt-java-package-2.0-SNAPSHOT/examples" />
+    </SOURCES>
+  </library>
+</component>
