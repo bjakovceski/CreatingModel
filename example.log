@@ -1,186 +1,28 @@
-WARN main org.apache.jena.riot - [line: 3853323, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Court_at_744-756½_S._Marengo_Ave.> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3864844, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Live_in_3⅔/4_Time> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3864844, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Live_in_3⅔/4_Time> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3875900, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ek_Nanad_Ki_Khushiyon_Ki_Chaabi…_Meri_Bhabhi> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3875900, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ek_Nanad_Ki_Khushiyon_Ki_Chaabi…_Meri_Bhabhi> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3887053, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4º_sen_ascensor> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3887053, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4º_sen_ascensor> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3889349, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2013–14_Debreceni_VSC_season__L´Imam_Seydi__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3889349, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2013–14_Debreceni_VSC_season__L´Imam_Seydi__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3892497, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2013–14_Diósgyőri_VTK_season__L´Imam_Seydi__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3892497, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2013–14_Diósgyőri_VTK_season__L´Imam_Seydi__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3950601, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Leben…_I_Feel_You> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3950601, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Leben…_I_Feel_You> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3958707, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Die_Nacht…_Du_bist_nicht_allein> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3958707, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Die_Nacht…_Du_bist_nicht_allein> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3959397, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Der_Tag…_Du_bist_erwacht> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3959397, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Der_Tag…_Du_bist_erwacht> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993793, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993793, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993794, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Inês_Andrada__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993794, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Inês_Andrada__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993795, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Sara_Ribeiro__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993795, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Sara_Ribeiro__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993796, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Susana_Alves__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993796, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Susana_Alves__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993797, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Ana_Bernardes__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993797, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Ana_Bernardes__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993798, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Mariana_Pina__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993798, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Mariana_Pina__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993799, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Iolanda_Silva__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993799, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Iolanda_Silva__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993800, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Madalena_Fontes__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993800, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Madalena_Fontes__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993801, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Paula_Cristina__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993801, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Paula_Cristina__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993802, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Jéssica_Chaveiro__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993802, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Jéssica_Chaveiro__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993803, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Sara_Martins__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993803, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Sara_Martins__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993804, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Raquel_Oliveira__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993804, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Raquel_Oliveira__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993805, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Margarida_Sousa__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993805, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Margarida_Sousa__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993806, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Beatriz_Fernandes__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993806, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Beatriz_Fernandes__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993807, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Mariana_Fontes__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993807, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Mariana_Fontes__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993808, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Jéssica_Simão__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993808, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Jéssica_Simão__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993809, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Rute_Gonçalves__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993809, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Rute_Gonçalves__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993810, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Catarina_Carvalho__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993810, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Catarina_Carvalho__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993811, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Carina_Afonso__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993811, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Carina_Afonso__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 3993812, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Ana_Rita_Gonçalves__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 3993812, col: 1 ] Bad IRI: <http://dbpedia.org/resource/S.U._1º_Dezembro_(women)__Ana_Rita_Gonçalves__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4010396, col: 1 ] Bad IRI: <http://dbpedia.org/resource/VENµS> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4010396, col: 1 ] Bad IRI: <http://dbpedia.org/resource/VENµS> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4061632, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2013_Campeonato_da_1ª_Divisão_do_Futebol> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4061632, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2013_Campeonato_da_1ª_Divisão_do_Futebol> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4081700, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2014_Campeonato_da_1ª_Divisão_do_Futebol> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4081700, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2014_Campeonato_da_1ª_Divisão_do_Futebol> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4082733, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2½_Beacon_Street> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4082733, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2½_Beacon_Street> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4132471, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Z²_(album)> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4132471, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Z²_(album)> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4150704, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Irish…_and_How_They_Got_That_Way> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4150704, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Irish…_and_How_They_Got_That_Way> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4178810, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2014–15_Debreceni_VSC_season__L´Imam_Seydi__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4178810, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2014–15_Debreceni_VSC_season__L´Imam_Seydi__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4180385, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2ª_Divisão_de_Macau> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4180385, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2ª_Divisão_de_Macau> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4184729, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Things_Are_Really_Great_Here,_Sort_Of…> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4184729, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Things_Are_Really_Great_Here,_Sort_Of…> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4216569, col: 1 ] Bad IRI: <http://dbpedia.org/resource/¾_for_Peace> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4216569, col: 1 ] Bad IRI: <http://dbpedia.org/resource/¾_for_Peace> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4226073, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Building_at_134-136½_Biltmore_Avenue> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4226073, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Building_at_134-136½_Biltmore_Avenue> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4227866, col: 1 ] Bad IRI: <http://dbpedia.org/resource/No,_Thank_You‼> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4227866, col: 1 ] Bad IRI: <http://dbpedia.org/resource/No,_Thank_You‼> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4231715, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Lion_King_1½_(video_game)> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4231715, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Lion_King_1½_(video_game)> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4234014, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Home™_(Vektroid_album)> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4234014, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Home™_(Vektroid_album)> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4234065, col: 1 ] Bad IRI: <http://dbpedia.org/resource/ClearSkies™> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4234065, col: 1 ] Bad IRI: <http://dbpedia.org/resource/ClearSkies™> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4274566, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Healey_Silverstone__Riley_2½-litre_Big_Four__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4274566, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Healey_Silverstone__Riley_2½-litre_Big_Four__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4296737, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4296737, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4296738, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4296738, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4296739, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4296739, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4296740, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4296740, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4296741, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4296741, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4296742, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4296742, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lyn_discography__%22Love…_After_사랑…후에_%22with_Shin_Hye-sung__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4310563, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Recuérdame_(La_5ª_Estación_song)> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4310563, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Recuérdame_(La_5ª_Estación_song)> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4317177, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2015_CR_Vasco_da_Gama_season__Índio¹__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4317177, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2015_CR_Vasco_da_Gama_season__Índio¹__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4348304, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2015_Campeonato_da_1ª_Divisão_do_Futebol> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4348304, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2015_Campeonato_da_1ª_Divisão_do_Futebol> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4387884, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4º_Xou_da_Xuxa> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4387884, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4º_Xou_da_Xuxa> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4389947, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2½_Daddies> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4389947, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2½_Daddies> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4411494, col: 1 ] Bad IRI: <http://dbpedia.org/resource/7½_Cents> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4411494, col: 1 ] Bad IRI: <http://dbpedia.org/resource/7½_Cents> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4417057, col: 1 ] Bad IRI: <http://dbpedia.org/resource/After_All_The_Wishing…> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4417057, col: 1 ] Bad IRI: <http://dbpedia.org/resource/After_All_The_Wishing…> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4479267, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Legend_№_17> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4479267, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Legend_№_17> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4490798, col: 1 ] Bad IRI: <http://dbpedia.org/resource/UD_Granadilla_Tenerife_Sur__Mª_Estella_Del_Valle__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4490798, col: 1 ] Bad IRI: <http://dbpedia.org/resource/UD_Granadilla_Tenerife_Sur__Mª_Estella_Del_Valle__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4492566, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Live_…My_Truck_Is_My_Home> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4492566, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Live_…My_Truck_Is_My_Home> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4493743, col: 1 ] Bad IRI: <http://dbpedia.org/resource/May_Chan__Little_Tiny,_You_Are_Good_細細粒，你好嘢﹗__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4493743, col: 1 ] Bad IRI: <http://dbpedia.org/resource/May_Chan__Little_Tiny,_You_Are_Good_細細粒，你好嘢﹗__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4494712, col: 1 ] Bad IRI: <http://dbpedia.org/resource/I've_Suffered_For_My_Art…Now_It's_Your_Turn> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4494712, col: 1 ] Bad IRI: <http://dbpedia.org/resource/I've_Suffered_For_My_Art…Now_It's_Your_Turn> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4496742, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2015–16_FK_Khazar_Lankaran_season__L´Imam_Seydi__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4496742, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2015–16_FK_Khazar_Lankaran_season__L´Imam_Seydi__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4504533, col: 1 ] Bad IRI: <http://dbpedia.org/resource/J²> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4504533, col: 1 ] Bad IRI: <http://dbpedia.org/resource/J²> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4535695, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Nancy_Drew…_Trouble_Shooter> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4535695, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Nancy_Drew…_Trouble_Shooter> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4547096, col: 1 ] Bad IRI: <http://dbpedia.org/resource/21½_Minutes_in_Berlin/23_Minutes_in_Brussels> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4547096, col: 1 ] Bad IRI: <http://dbpedia.org/resource/21½_Minutes_in_Berlin/23_Minutes_in_Brussels> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4569811, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Love,_At_First…> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4569811, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Love,_At_First…> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4578828, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Pizzicato_Five™> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4578828, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Pizzicato_Five™> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4591537, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Why_Does_E=mc²%3F> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4591537, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Why_Does_E=mc²%3F> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4598779, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Queensland_B16½_class_locomotive> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4598779, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Queensland_B16½_class_locomotive> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4611585, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lego_Nexo_Knights__Lego®_NEXO_Knights™:_Merlok_2.0__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4611585, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Lego_Nexo_Knights__Lego®_NEXO_Knights™:_Merlok_2.0__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4634924, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4½> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4634924, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4½> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4637823, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2016_Campeonato_da_1ª_Divisão_do_Futebol> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4637823, col: 1 ] Bad IRI: <http://dbpedia.org/resource/2016_Campeonato_da_1ª_Divisão_do_Futebol> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4667139, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Daryl_Braithwaite…_Best_Of> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4667139, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Daryl_Braithwaite…_Best_Of> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4676199, col: 1 ] Bad IRI: <http://dbpedia.org/resource/1º_de_Maio_de_Quelimane> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4676199, col: 1 ] Bad IRI: <http://dbpedia.org/resource/1º_de_Maio_de_Quelimane> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686149, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686149, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686150, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686150, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686151, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__2> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686151, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__2> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686152, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__3> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686152, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__3> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686153, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__4> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686153, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__4> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686154, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__5> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686154, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__5> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686155, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__6> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686155, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__6> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686156, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__7> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686156, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__7> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4686157, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__8> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4686157, col: 1 ] Bad IRI: <http://dbpedia.org/resource/José_Mª_García_Lavilla__8> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4700402, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Riley_16__Riley_2½-litre_Big_Four__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4700402, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Riley_16__Riley_2½-litre_Big_Four__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4706328, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Republic_of_Ireland_national_beach_soccer_team__Derek_O´Neil__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4706328, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Republic_of_Ireland_national_beach_soccer_team__Derek_O´Neil__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4706332, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Republic_of_Ireland_national_beach_soccer_team__Kellam_O´Hanlon__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4706332, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Republic_of_Ireland_national_beach_soccer_team__Kellam_O´Hanlon__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4709217, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Akousa…> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4709217, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Akousa…> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4794309, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Close…_But> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4794309, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Close…_But> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4815697, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Pushkinsky_lyceum_№_1500> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4815697, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Pushkinsky_lyceum_№_1500> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 4822412, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Little_Bit…> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 4822412, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Little_Bit…> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62278<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62278<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down
 DEBUG main Jena - Jena initialization
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
@@ -189,68 +31,78 @@ DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
 DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main org.apache.jena.riot.system.stream.StreamManager - open(C:/Users/Jakovcheski/Desktop/THESIS/instance-types/cleanInstanceTypes_en.ttl)
-DEBUG main org.apache.jena.riot.system.stream.StreamManager - Not mapped: C:/Users/Jakovcheski/Desktop/THESIS/instance-types/cleanInstanceTypes_en.ttl
-DEBUG main org.apache.jena.riot.system.stream.StreamManager - Found: C:/Users/Jakovcheski/Desktop/THESIS/instance-types/cleanInstanceTypes_en.ttl (LocatorFile)
-DEBUG main org.apache.jena.riot.RDFDataMgr - Found: C:/Users/Jakovcheski/Desktop/THESIS/instance-types/cleanInstanceTypes_en.ttl
-WARN main org.apache.jena.riot - [line: 7141, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Magnavox_Odyssey²> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 7141, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Magnavox_Odyssey²> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 8224, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 8224, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 8225, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½__tv_series__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 8225, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½__tv_series__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 8226, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½__film__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 8226, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½__film__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 8227, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½__special__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 8227, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ranma_½__special__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 11707, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Heavy_Metal:_F.A.K.K.²> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 11707, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Heavy_Metal:_F.A.K.K.²> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 30649, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Uluṟu-Kata_Tjuṯa_National_Park__ﺁ__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 30649, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Uluṟu-Kata_Tjuṯa_National_Park__ﺁ__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 32401, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 32401, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 32402, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 32402, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 32403, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 32403, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 32404, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 32404, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 32405, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 32405, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 32406, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 32406, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Ford_Mustang__1964½__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 66637, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Who's_Got_the_10½%3F> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 66637, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Who's_Got_the_10½%3F> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 110683, col: 1 ] Bad IRI: <http://dbpedia.org/resource/8½> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 110683, col: 1 ] Bad IRI: <http://dbpedia.org/resource/8½> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 126755, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Lion_King_1½> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 126755, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Lion_King_1½> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 140797, col: 1 ] Bad IRI: <http://dbpedia.org/resource/USS_G-1_(SS-19½)> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 140797, col: 1 ] Bad IRI: <http://dbpedia.org/resource/USS_G-1_(SS-19½)> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 140875, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4′33″__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 140875, col: 1 ] Bad IRI: <http://dbpedia.org/resource/4′33″__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 149541, col: 1 ] Bad IRI: <http://dbpedia.org/resource/DNA²> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 149541, col: 1 ] Bad IRI: <http://dbpedia.org/resource/DNA²> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 149542, col: 1 ] Bad IRI: <http://dbpedia.org/resource/DNA²__tv_series__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 149542, col: 1 ] Bad IRI: <http://dbpedia.org/resource/DNA²__tv_series__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 149543, col: 1 ] Bad IRI: <http://dbpedia.org/resource/DNA²__ova__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 149543, col: 1 ] Bad IRI: <http://dbpedia.org/resource/DNA²__ova__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 178299, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Intergalactic_Sonic_7″s> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 178299, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Intergalactic_Sonic_7″s> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 185088, col: 1 ] Bad IRI: <http://dbpedia.org/resource/E²> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 185088, col: 1 ] Bad IRI: <http://dbpedia.org/resource/E²> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 200051, col: 1 ] Bad IRI: <http://dbpedia.org/resource/A_History_of_the_World_in_10½_Chapters> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 200051, col: 1 ] Bad IRI: <http://dbpedia.org/resource/A_History_of_the_World_in_10½_Chapters> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 228425, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Duck_Dodgers_in_the_24½th_Century> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 228425, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Duck_Dodgers_in_the_24½th_Century> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 241956, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Naked_Gun_2½:_The_Smell_of_Fear> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 241956, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Naked_Gun_2½:_The_Smell_of_Fear> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 241957, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Naked_Gun_2½:_The_Smell_of_Fear__Original_Sound__1> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 241957, col: 1 ] Bad IRI: <http://dbpedia.org/resource/The_Naked_Gun_2½:_The_Smell_of_Fear__Original_Sound__1> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 249610, col: 1 ] Bad IRI: <http://dbpedia.org/resource/ClayFighter_63⅓> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 249610, col: 1 ] Bad IRI: <http://dbpedia.org/resource/ClayFighter_63⅓> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
-WARN main org.apache.jena.riot - [line: 260721, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Sopwith_1½_Strutter> Code: 47/NOT_NFKC in PATH: The IRI is not in Unicode Normal Form KC.
-WARN main org.apache.jena.riot - [line: 260721, col: 1 ] Bad IRI: <http://dbpedia.org/resource/Sopwith_1½_Strutter> Code: 56/COMPATIBILITY_CHARACTER in PATH: Bad character
+DEBUG main org.apache.jena.riot.web.HttpOp - [1] GET http://dbpedia.org/sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection request: [route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 0 of 5; total allocated: 0 of 10]
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection leased: [id: 0][route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG main org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to dbpedia.org:80
+DEBUG main org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: best-match
+DEBUG main org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+DEBUG main org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+DEBUG main org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Attempt 1 to execute request
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.wire - >> "GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "User-Agent: Apache-Jena-ARQ/3.0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Host: dbpedia.org[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Connection: Keep-Alive[\r][\n]"
+DEBUG main org.apache.http.wire - >> "[\r][\n]"
+DEBUG main org.apache.http.headers - >> GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.headers - >> Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1
+DEBUG main org.apache.http.headers - >> User-Agent: Apache-Jena-ARQ/3.0.1
+DEBUG main org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+DEBUG main org.apache.http.headers - >> Host: dbpedia.org
+DEBUG main org.apache.http.headers - >> Connection: Keep-Alive
+DEBUG main org.apache.http.wire - << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG main org.apache.http.wire - << "Date: Sat, 21 Apr 2018 12:35:47 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Type: application/sparql-results+json[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Length: 2100[\r][\n]"
+DEBUG main org.apache.http.wire - << "Connection: keep-alive[\r][\n]"
+DEBUG main org.apache.http.wire - << "Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB[\r][\n]"
+DEBUG main org.apache.http.wire - << "Expires: Sat, 28 Apr 2018 12:35:47 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Cache-Control: max-age=604800[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Credentials: true[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding[\r][\n]"
+DEBUG main org.apache.http.wire - << "Accept-Ranges: bytes[\r][\n]"
+DEBUG main org.apache.http.wire - << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << Date: Sat, 21 Apr 2018 12:35:47 GMT
+DEBUG main org.apache.http.headers - << Content-Type: application/sparql-results+json
+DEBUG main org.apache.http.headers - << Content-Length: 2100
+DEBUG main org.apache.http.headers - << Connection: keep-alive
+DEBUG main org.apache.http.headers - << Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB
+DEBUG main org.apache.http.headers - << Expires: Sat, 28 Apr 2018 12:35:47 GMT
+DEBUG main org.apache.http.headers - << Cache-Control: max-age=604800
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62284<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62284<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down
+DEBUG main Jena - Jena initialization
 DEBUG main Jena - Jena initialization
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
@@ -259,6 +111,77 @@ DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
 DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+DEBUG main org.apache.jena.riot.web.HttpOp - [1] GET http://dbpedia.org/sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection request: [route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 0 of 5; total allocated: 0 of 10]
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection leased: [id: 0][route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG main org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to dbpedia.org:80
+DEBUG main org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: best-match
+DEBUG main org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+DEBUG main org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+DEBUG main org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Attempt 1 to execute request
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.wire - >> "GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "User-Agent: Apache-Jena-ARQ/3.0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Host: dbpedia.org[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Connection: Keep-Alive[\r][\n]"
+DEBUG main org.apache.http.wire - >> "[\r][\n]"
+DEBUG main org.apache.http.headers - >> GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.headers - >> Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1
+DEBUG main org.apache.http.headers - >> User-Agent: Apache-Jena-ARQ/3.0.1
+DEBUG main org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+DEBUG main org.apache.http.headers - >> Host: dbpedia.org
+DEBUG main org.apache.http.headers - >> Connection: Keep-Alive
+DEBUG main org.apache.http.wire - << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG main org.apache.http.wire - << "Date: Sat, 21 Apr 2018 12:37:27 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Type: application/sparql-results+json[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Length: 2100[\r][\n]"
+DEBUG main org.apache.http.wire - << "Connection: keep-alive[\r][\n]"
+DEBUG main org.apache.http.wire - << "Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB[\r][\n]"
+DEBUG main org.apache.http.wire - << "Expires: Sat, 28 Apr 2018 12:37:27 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Cache-Control: max-age=604800[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Credentials: true[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding[\r][\n]"
+DEBUG main org.apache.http.wire - << "Accept-Ranges: bytes[\r][\n]"
+DEBUG main org.apache.http.wire - << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << Date: Sat, 21 Apr 2018 12:37:27 GMT
+DEBUG main org.apache.http.headers - << Content-Type: application/sparql-results+json
+DEBUG main org.apache.http.headers - << Content-Length: 2100
+DEBUG main org.apache.http.headers - << Connection: keep-alive
+DEBUG main org.apache.http.headers - << Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB
+DEBUG main org.apache.http.headers - << Expires: Sat, 28 Apr 2018 12:37:27 GMT
+DEBUG main org.apache.http.headers - << Cache-Control: max-age=604800
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62299<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62299<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down
 DEBUG main Jena - Jena initialization
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
@@ -267,6 +190,77 @@ DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
 DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+DEBUG main org.apache.jena.riot.web.HttpOp - [1] GET http://dbpedia.org/sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection request: [route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 0 of 5; total allocated: 0 of 10]
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection leased: [id: 0][route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG main org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to dbpedia.org:80
+DEBUG main org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: best-match
+DEBUG main org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+DEBUG main org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+DEBUG main org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Attempt 1 to execute request
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.wire - >> "GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "User-Agent: Apache-Jena-ARQ/3.0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Host: dbpedia.org[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Connection: Keep-Alive[\r][\n]"
+DEBUG main org.apache.http.wire - >> "[\r][\n]"
+DEBUG main org.apache.http.headers - >> GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.headers - >> Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1
+DEBUG main org.apache.http.headers - >> User-Agent: Apache-Jena-ARQ/3.0.1
+DEBUG main org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+DEBUG main org.apache.http.headers - >> Host: dbpedia.org
+DEBUG main org.apache.http.headers - >> Connection: Keep-Alive
+DEBUG main org.apache.http.wire - << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG main org.apache.http.wire - << "Date: Sat, 21 Apr 2018 14:21:55 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Type: application/sparql-results+json[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Length: 2100[\r][\n]"
+DEBUG main org.apache.http.wire - << "Connection: keep-alive[\r][\n]"
+DEBUG main org.apache.http.wire - << "Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB[\r][\n]"
+DEBUG main org.apache.http.wire - << "Expires: Sat, 28 Apr 2018 14:21:55 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Cache-Control: max-age=604800[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Credentials: true[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding[\r][\n]"
+DEBUG main org.apache.http.wire - << "Accept-Ranges: bytes[\r][\n]"
+DEBUG main org.apache.http.wire - << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << Date: Sat, 21 Apr 2018 14:21:55 GMT
+DEBUG main org.apache.http.headers - << Content-Type: application/sparql-results+json
+DEBUG main org.apache.http.headers - << Content-Length: 2100
+DEBUG main org.apache.http.headers - << Connection: keep-alive
+DEBUG main org.apache.http.headers - << Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB
+DEBUG main org.apache.http.headers - << Expires: Sat, 28 Apr 2018 14:21:55 GMT
+DEBUG main org.apache.http.headers - << Cache-Control: max-age=604800
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62408<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62408<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down
 DEBUG main Jena - Jena initialization
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
@@ -275,6 +269,77 @@ DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
 DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+DEBUG main org.apache.jena.riot.web.HttpOp - [1] GET http://dbpedia.org/sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection request: [route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 0 of 5; total allocated: 0 of 10]
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection leased: [id: 0][route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG main org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to dbpedia.org:80
+DEBUG main org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: best-match
+DEBUG main org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+DEBUG main org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+DEBUG main org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Attempt 1 to execute request
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.wire - >> "GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "User-Agent: Apache-Jena-ARQ/3.0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Host: dbpedia.org[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Connection: Keep-Alive[\r][\n]"
+DEBUG main org.apache.http.wire - >> "[\r][\n]"
+DEBUG main org.apache.http.headers - >> GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.headers - >> Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1
+DEBUG main org.apache.http.headers - >> User-Agent: Apache-Jena-ARQ/3.0.1
+DEBUG main org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+DEBUG main org.apache.http.headers - >> Host: dbpedia.org
+DEBUG main org.apache.http.headers - >> Connection: Keep-Alive
+DEBUG main org.apache.http.wire - << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG main org.apache.http.wire - << "Date: Sat, 21 Apr 2018 14:42:44 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Type: application/sparql-results+json[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Length: 2100[\r][\n]"
+DEBUG main org.apache.http.wire - << "Connection: keep-alive[\r][\n]"
+DEBUG main org.apache.http.wire - << "Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB[\r][\n]"
+DEBUG main org.apache.http.wire - << "Expires: Sat, 28 Apr 2018 14:42:44 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Cache-Control: max-age=604800[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Credentials: true[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding[\r][\n]"
+DEBUG main org.apache.http.wire - << "Accept-Ranges: bytes[\r][\n]"
+DEBUG main org.apache.http.wire - << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << Date: Sat, 21 Apr 2018 14:42:44 GMT
+DEBUG main org.apache.http.headers - << Content-Type: application/sparql-results+json
+DEBUG main org.apache.http.headers - << Content-Length: 2100
+DEBUG main org.apache.http.headers - << Connection: keep-alive
+DEBUG main org.apache.http.headers - << Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB
+DEBUG main org.apache.http.headers - << Expires: Sat, 28 Apr 2018 14:42:44 GMT
+DEBUG main org.apache.http.headers - << Cache-Control: max-age=604800
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62436<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62436<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down
 DEBUG main Jena - Jena initialization
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
@@ -283,6 +348,77 @@ DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
 DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+DEBUG main org.apache.jena.riot.web.HttpOp - [1] GET http://dbpedia.org/sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection request: [route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 0 of 5; total allocated: 0 of 10]
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection leased: [id: 0][route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG main org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to dbpedia.org:80
+DEBUG main org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: best-match
+DEBUG main org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+DEBUG main org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+DEBUG main org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Attempt 1 to execute request
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.wire - >> "GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "User-Agent: Apache-Jena-ARQ/3.0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Host: dbpedia.org[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Connection: Keep-Alive[\r][\n]"
+DEBUG main org.apache.http.wire - >> "[\r][\n]"
+DEBUG main org.apache.http.headers - >> GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.headers - >> Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1
+DEBUG main org.apache.http.headers - >> User-Agent: Apache-Jena-ARQ/3.0.1
+DEBUG main org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+DEBUG main org.apache.http.headers - >> Host: dbpedia.org
+DEBUG main org.apache.http.headers - >> Connection: Keep-Alive
+DEBUG main org.apache.http.wire - << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG main org.apache.http.wire - << "Date: Sat, 21 Apr 2018 14:48:39 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Type: application/sparql-results+json[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Length: 2100[\r][\n]"
+DEBUG main org.apache.http.wire - << "Connection: keep-alive[\r][\n]"
+DEBUG main org.apache.http.wire - << "Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB[\r][\n]"
+DEBUG main org.apache.http.wire - << "Expires: Sat, 28 Apr 2018 14:48:39 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Cache-Control: max-age=604800[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Credentials: true[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding[\r][\n]"
+DEBUG main org.apache.http.wire - << "Accept-Ranges: bytes[\r][\n]"
+DEBUG main org.apache.http.wire - << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << Date: Sat, 21 Apr 2018 14:48:39 GMT
+DEBUG main org.apache.http.headers - << Content-Type: application/sparql-results+json
+DEBUG main org.apache.http.headers - << Content-Length: 2100
+DEBUG main org.apache.http.headers - << Connection: keep-alive
+DEBUG main org.apache.http.headers - << Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB
+DEBUG main org.apache.http.headers - << Expires: Sat, 28 Apr 2018 14:48:39 GMT
+DEBUG main org.apache.http.headers - << Cache-Control: max-age=604800
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62456<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62456<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down
 DEBUG main Jena - Jena initialization
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
@@ -291,6 +427,77 @@ DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
 DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+DEBUG main org.apache.jena.riot.web.HttpOp - [1] GET http://dbpedia.org/sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection request: [route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 0 of 5; total allocated: 0 of 10]
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection leased: [id: 0][route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG main org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to dbpedia.org:80
+DEBUG main org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: best-match
+DEBUG main org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+DEBUG main org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+DEBUG main org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Attempt 1 to execute request
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.wire - >> "GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "User-Agent: Apache-Jena-ARQ/3.0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Host: dbpedia.org[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Connection: Keep-Alive[\r][\n]"
+DEBUG main org.apache.http.wire - >> "[\r][\n]"
+DEBUG main org.apache.http.headers - >> GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.headers - >> Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1
+DEBUG main org.apache.http.headers - >> User-Agent: Apache-Jena-ARQ/3.0.1
+DEBUG main org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+DEBUG main org.apache.http.headers - >> Host: dbpedia.org
+DEBUG main org.apache.http.headers - >> Connection: Keep-Alive
+DEBUG main org.apache.http.wire - << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG main org.apache.http.wire - << "Date: Sat, 21 Apr 2018 15:05:06 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Type: application/sparql-results+json[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Length: 2100[\r][\n]"
+DEBUG main org.apache.http.wire - << "Connection: keep-alive[\r][\n]"
+DEBUG main org.apache.http.wire - << "Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB[\r][\n]"
+DEBUG main org.apache.http.wire - << "Expires: Sat, 28 Apr 2018 15:05:06 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Cache-Control: max-age=604800[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Credentials: true[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding[\r][\n]"
+DEBUG main org.apache.http.wire - << "Accept-Ranges: bytes[\r][\n]"
+DEBUG main org.apache.http.wire - << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << Date: Sat, 21 Apr 2018 15:05:06 GMT
+DEBUG main org.apache.http.headers - << Content-Type: application/sparql-results+json
+DEBUG main org.apache.http.headers - << Content-Length: 2100
+DEBUG main org.apache.http.headers - << Connection: keep-alive
+DEBUG main org.apache.http.headers - << Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB
+DEBUG main org.apache.http.headers - << Expires: Sat, 28 Apr 2018 15:05:06 GMT
+DEBUG main org.apache.http.headers - << Cache-Control: max-age=604800
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62691<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62691<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down
 DEBUG main Jena - Jena initialization
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
@@ -299,251 +506,74 @@ DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
 DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
 DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
 DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
-DEBUG main Jena - Jena initialization
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.util.LocationMapper - Failed to find configuration: file:location-mapping.rdf;file:location-mapping.n3;file:location-mapping.ttl;file:etc/location-mapping.rdf;file:etc/location-mapping.n3;file:etc/location-mapping.ttl
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorFile
-DEBUG main org.apache.jena.util.FileManager - Add location: LocatorURL
-DEBUG main org.apache.jena.util.FileManager - Add location: ClassLoaderLocator
-DEBUG main org.apache.jena.riot.system.stream.JenaIOEnvironment - Failed to find configuration: location-mapping.ttl;location-mapping.rdf;location-mapping.n3;etc/location-mapping.rdf;etc/location-mapping.n3;etc/location-mapping.ttl
+DEBUG main org.apache.jena.riot.web.HttpOp - [1] GET http://dbpedia.org/sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection request: [route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 0 of 5; total allocated: 0 of 10]
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection leased: [id: 0][route: {}->http://dbpedia.org][total kept alive: 0; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG main org.apache.http.impl.conn.DefaultClientConnectionOperator - Connecting to dbpedia.org:80
+DEBUG main org.apache.http.client.protocol.RequestAddCookies - CookieSpec selected: best-match
+DEBUG main org.apache.http.client.protocol.RequestAuthCache - Auth cache not set in the context
+DEBUG main org.apache.http.client.protocol.RequestTargetAuthentication - Target auth state: UNCHALLENGED
+DEBUG main org.apache.http.client.protocol.RequestProxyAuthentication - Proxy auth state: UNCHALLENGED
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Attempt 1 to execute request
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Sending request: GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.wire - >> "GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "User-Agent: Apache-Jena-ARQ/3.0.1[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Accept-Encoding: gzip,deflate[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Host: dbpedia.org[\r][\n]"
+DEBUG main org.apache.http.wire - >> "Connection: Keep-Alive[\r][\n]"
+DEBUG main org.apache.http.wire - >> "[\r][\n]"
+DEBUG main org.apache.http.headers - >> GET /sparql?query=PREFIX++dbo%3A++%3Chttp%3A%2F%2Fdbpedia.org%2Fontology%2F%3E%0APREFIX++rdf%3A++%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX++vrank%3A+%3Chttp%3A%2F%2Fpurl.org%2Fvoc%2Fvrank%23%3E%0A%0ASELECT++%3Fs+%3Fv%0AFROM+%3Chttp%3A%2F%2Fdbpedia.org%3E%0AFROM+%3Chttp%3A%2F%2Fpeople.aifb.kit.edu%2Fath%2F%23DBpedia_PageRank%3E%0AWHERE%0A++%7B+++%7B+%3Fs++rdf%3Atype++dbo%3APoliticalParty+%7D%0A++++UNION%0A++++++%7B+%3Fs++rdf%3Atype++dbo%3APolitician+%7D%0A++++%3Fs+vrank%3AhasRank%2Fvrank%3ArankValue+%3Fv%0A++%7D%0AORDER+BY+DESC%28%3Fv%29%0ALIMIT+++10%0A HTTP/1.1
+DEBUG main org.apache.http.headers - >> Accept: application/sparql-results+json, application/sparql-results+xml;q=0.9, text/tab-separated-values;q=0.7, text/csv;q=0.5, application/json;q=0.2, application/xml;q=0.2, */*;q=0.1
+DEBUG main org.apache.http.headers - >> User-Agent: Apache-Jena-ARQ/3.0.1
+DEBUG main org.apache.http.headers - >> Accept-Encoding: gzip,deflate
+DEBUG main org.apache.http.headers - >> Host: dbpedia.org
+DEBUG main org.apache.http.headers - >> Connection: Keep-Alive
+DEBUG main org.apache.http.wire - << "HTTP/1.1 200 OK[\r][\n]"
+DEBUG main org.apache.http.wire - << "Date: Sat, 21 Apr 2018 15:36:11 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Type: application/sparql-results+json[\r][\n]"
+DEBUG main org.apache.http.wire - << "Content-Length: 2100[\r][\n]"
+DEBUG main org.apache.http.wire - << "Connection: keep-alive[\r][\n]"
+DEBUG main org.apache.http.wire - << "Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB[\r][\n]"
+DEBUG main org.apache.http.wire - << "Expires: Sat, 28 Apr 2018 15:36:11 GMT[\r][\n]"
+DEBUG main org.apache.http.wire - << "Cache-Control: max-age=604800[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Origin: *[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Credentials: true[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Methods: GET, POST, OPTIONS[\r][\n]"
+DEBUG main org.apache.http.wire - << "Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding[\r][\n]"
+DEBUG main org.apache.http.wire - << "Accept-Ranges: bytes[\r][\n]"
+DEBUG main org.apache.http.wire - << "[\r][\n]"
+DEBUG main org.apache.http.impl.conn.DefaultClientConnection - Receiving response: HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << HTTP/1.1 200 OK
+DEBUG main org.apache.http.headers - << Date: Sat, 21 Apr 2018 15:36:11 GMT
+DEBUG main org.apache.http.headers - << Content-Type: application/sparql-results+json
+DEBUG main org.apache.http.headers - << Content-Length: 2100
+DEBUG main org.apache.http.headers - << Connection: keep-alive
+DEBUG main org.apache.http.headers - << Server: Virtuoso/07.20.3228 (Linux) i686-generic-linux-glibc25-64  VDB
+DEBUG main org.apache.http.headers - << Expires: Sat, 28 Apr 2018 15:36:11 GMT
+DEBUG main org.apache.http.headers - << Cache-Control: max-age=604800
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Origin: *
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Credentials: true
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Methods: GET, POST, OPTIONS
+DEBUG main org.apache.http.headers - << Access-Control-Allow-Headers: DNT,X-CustomHeader,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Accept-Encoding
+DEBUG main org.apache.http.headers - << Accept-Ranges: bytes
+DEBUG main org.apache.http.impl.client.SystemDefaultHttpClient - Connection can be kept alive indefinitely
+DEBUG main org.apache.http.wire - << "[\n]"
+DEBUG main org.apache.http.wire - << "{ "head": { "link": [], "vars": ["s", "v"] },[\n]"
+DEBUG main org.apache.http.wire - << "  "results": { "distinct": false, "ordered": true, "bindings": [[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Democratic_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "861.695" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Republican_Party_(United_States)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "835.101" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Barack_Obama" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "509.522" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Conservative_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "482.647" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Labour_Party_(UK)" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "428.361" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/George_W._Bush" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "413.085" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/NATO" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "411.35" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Bill_Clinton" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "308.69" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Ronald_Reagan" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "290.419" }},[\n]"
+DEBUG main org.apache.http.wire - << "    { "s": { "type": "uri", "value": "http://dbpedia.org/resource/Iranian_calendars" }[0x9], "v": { "type": "typed-literal", "datatype": "http://www.w3.org/2001/XMLSchema#float", "value": "265.583" }} ] } }"
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection [id: 0][route: {}->http://dbpedia.org] can be kept alive indefinitely
+DEBUG main org.apache.http.impl.conn.PoolingClientConnectionManager - Connection released: [id: 0][route: {}->http://dbpedia.org][total kept alive: 1; route allocated: 1 of 5; total allocated: 1 of 10]
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager is shutting down
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62855<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.DefaultClientConnection - Connection 0.0.0.0:62855<->194.109.129.58:80 closed
+DEBUG Finalizer org.apache.http.impl.conn.PoolingClientConnectionManager - Connection manager shut down

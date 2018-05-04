@@ -1,3 +1,5 @@
+package entityTypes;
+
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
@@ -5,41 +7,22 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.regex.Pattern;
 
-public class CleanAndSortHDT {
+public class FindEntityTypes {
     private static Long start = System.nanoTime();
 
-//    static BufferedWriter bw;
-//
-//    static {
-//        try {
-////            bw = new BufferedWriter(new FileWriter("C:/Users/Jakovcheski/Desktop/globalDomain.ttl"));
-//            bw = new BufferedWriter(new FileWriter("C:/Users/Jakovcheski/Desktop/AAAA.ttl"));
-//
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//    }
-
     private static List<String> fileNames = new LinkedList<>();
-
-    private static void listFilesForFolder(final File folder) {
-        for (final File fileEntry : Objects.requireNonNull(folder.listFiles())) {
-            if (fileEntry.isDirectory()) {
-                listFilesForFolder(fileEntry);
-            } else {
-                fileNames.add(fileEntry.getAbsolutePath());
-            }
-        }
-    }
-
     private static List<String> instanceTypeFileNames = new LinkedList<>();
 
-    private static void listInstanceTypesFilesForFolder(final File folder) {
+    private static void listFilesForNifLinksFolder(final File folder, String type) {
         for (final File fileEntry : Objects.requireNonNull(folder.listFiles())) {
             if (fileEntry.isDirectory()) {
-                listInstanceTypesFilesForFolder(fileEntry);
+                listFilesForNifLinksFolder(fileEntry, type);
             } else {
-                instanceTypeFileNames.add(fileEntry.getAbsolutePath());
+                if(type == "links") {
+                    fileNames.add(fileEntry.getAbsolutePath());
+                } else {
+                    instanceTypeFileNames.add(fileEntry.getAbsolutePath());
+                }
             }
         }
     }
@@ -54,78 +37,15 @@ public class CleanAndSortHDT {
         }
     }
 
-    //
-
-//    private static List<String> instanceTypesLines;
-////    private static List<String> nifLinksLines;
-//    private static Iterator<String> instanceTypesIterator;
-////    private static Iterator<String> nifLinksIterator;
-//    private static void readWholeInstanceTypes() throws IOException {
-//        {
-//            try {
-//                instanceTypesLines = Files.readAllLines(Paths.get("C:\\\\Users\\\\Jakovcheski\\\\Desktop\\\\THESIS\\\\instance-types\\\\cleanInstanceTypes_en.ttl"), StandardCharsets.UTF_8);
-//                instanceTypesIterator = instanceTypesLines.iterator();
-////                nifLinksLines = Files.readAllLines(Paths.get("C:\\\\Users\\\\Jakovcheski\\\\Desktop\\\\THESIS\\\\nif-links\\\\cleanLinks_en.ttl"), StandardCharsets.UTF_8);
-////                nifLinksIterator = nifLinksLines.iterator();
-//            } catch (IOException e) {
-//                e.printStackTrace();
-//            }
-//        }
-//    }
-//    //
-
-
-    private static void readFromAbstract() throws IOException {
-        //links
-        final File folder = new File("C:\\Users\\Jakovcheski\\Desktop\\DataTree");
-        listFilesForFolder(folder);
-        //instance types
-        final File instanceTypesFolder = new File("C:\\Users\\Jakovcheski\\Desktop\\InstanceTypes");
-        listInstanceTypesFilesForFolder(instanceTypesFolder);
-
-//        readWholeInstanceTypes();
-
-//        String filePath = "C:/Users/Jakovcheski/Desktop/THESIS/nif-abstract/clean-nif-abstract-context_en-LinksThatAreNotJetProccessed.ttl";
-        BufferedWriter bw = new BufferedWriter(new FileWriter("C:/Users/Jakovcheski/Desktop/Politics.ttl"));
-        String filePath = "C:/Users/Jakovcheski/Desktop/abstractForPolitics.ttl";
-        FileInputStream inputStream = null;
-        Scanner sc = null;
-        try {
-            inputStream = new FileInputStream(filePath);
-            sc = new Scanner(inputStream, "UTF-8");
-            while (sc.hasNextLine()) {
-                String line = sc.nextLine();
-                Long startTime = System.nanoTime();
-                Map<String, String> entityType = new LinkedHashMap<>();
-                String[] links = line.split(">\\s+");
-                String[] parsedLink = links[0].split("&nif=context");
-                entityType = readFromNifLinks(parsedLink[0]);
-                divideTextToWordAtLineWithType(bw, links[2], entityType);
-                System.err.println("One link calculation time: " + (System.nanoTime() - startTime) + " ns \n");
-            }
-        } catch (IOException e) {
-            e.printStackTrace();
-        } finally {
-            if (inputStream != null) {
-                inputStream.close();
-            }
-            if (sc != null) {
-                sc.close();
-            }
-            if (bw != null) {
-                bw.close();
-            }
-        }
-        System.err.println("TOTAL TIME: " + ((System.nanoTime() - start) / 1_000_000_000) + " s");
-    }
-
     public static Map<String, String> readFromNifLinks(String link) throws IOException {
         //links
         final File folder = new File("C:\\Users\\Jakovcheski\\Desktop\\DataTree");
-        listFilesForFolder(folder);
+        listFilesForNifLinksFolder(folder, "links");
         //instance types
+
         final File instanceTypesFolder = new File("C:\\Users\\Jakovcheski\\Desktop\\InstanceTypes");
-        listInstanceTypesFilesForFolder(instanceTypesFolder);
+        listFilesForNifLinksFolder(instanceTypesFolder, "instances");
+
 
         Map<String, String> types = new LinkedHashMap<>();
         boolean foundLinkFile = false;
@@ -178,8 +98,6 @@ public class CleanAndSortHDT {
             String line = "";
             while ((line = br.readLine()) != null) {
                 String[] lineLinks = line.split(">\\s+");
-                //parsedLinks is not same as parsedLink!!!!
-//                String[] parsedLinks = lineLinks[0].split("&nif");
                 String[] parsedLinks = lineLinks[0].split("\\?dbpv");
 
                 if (parsedLinks[0].equals(link)) {
@@ -242,10 +160,6 @@ public class CleanAndSortHDT {
             }
         });
 
-        String filePath = "C:\\Users\\Jakovcheski\\Desktop\\THESIS\\stopwords.list";
-        FileInputStream stopWordsStream = null;
-        Scanner stopWordsScanner = null;
-
         try {
             for (String word : words) {
                 String value = splittedKeyMap.get(word);
@@ -273,11 +187,5 @@ public class CleanAndSortHDT {
         }
     }
 
-    public static void main(String[] args) {
-//        try {
-//            readFromAbstract();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-    }
 }
+
